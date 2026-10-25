@@ -1,100 +1,81 @@
-<h1 align="center">Hi 👋, I'm Melwin Fernandes</h1>
+# Hi, I'm Melwin Fernandes 👋
 
-<h3 align="center">
-💻 Computer Science Engineering Student at VTU Belagavi
-</h3>
+**B.Tech Computer Science student | Web Developer | AI/ML Enthusiast | Hackathon Participant**
 
-<h4 align="center">
-🚀 Passionate about Machine Learning, Agentic AI, Frontend, Backend & Full Stack Development
-</h4>
+I'm a second-year B.Tech CSE student who enjoys building practical, AI-driven software. My interests include web development, machine learning, data processing, and solving real-world problems through hackathons.
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Machine+Learning+Enthusiast;Agentic+AI+Explorer;Frontend+%2B+Backend+Developer;Full+Stack+Developer;Always+Learning+and+Improving+🚀" />
-</p>
+- 🎓 Pursuing B.Tech in Computer Science and Engineering (2nd year)
+- 🌐 Currently learning and building in web development
+- 🤖 Building projects that apply AI/ML to real problems
+- 🏆 Active hackathon participant
 
 ---
 
-## 👨‍💻 About Me
+## 🛠️ Tech Stack
 
-- 🎓 Computer Science Engineering student at **VTU Belagavi**
-- 🌱 Currently learning **Machine Learning, Agentic AI & Full Stack Development**
-- 💡 Interested in:
-  - Frontend Development
-  - Backend Development
-  - AI Agents
-  - LLM Applications
-  - Automation
-  - Open Source
-- ⚡ Improving every single day through coding & building projects
-- 📫 Reach me at: **melwinfernandes2007@gmail.com**
+**Web Development**
 
----
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<h3 align="center">🌐 Connect With Me</h3>
+**AI / Machine Learning**
 
-<p align="center">
-  <a href="https://linkedin.com/in/melwinfernandes" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
-  </a>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-  <a href="https://github.com/melwin-2007" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="50" />
-  </a>
-</p>
+**Tools & Other**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-<h3 align="center">⚒️ Tech Stack & Tools</h3>
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,c,cpp,git,github,arduino,oracle,vscode" />
-</p>
+### [MARGA](https://github.com/Melwin-2007/MARGA)
+An AI-powered platform that detects fraud, inflated costs, and ghost works in MPLADS projects, covering the full cycle from proposal to oversight. It uses geo-tagged evidence, anomaly detection, and optimised inspection routes.
+**Tech:** Python, PyTorch, LightGBM, React, HTML
 
----
+### [SpeechCoach](https://github.com/Melwin-2007/speechCoach)
+An AI-powered speech analysis system that evaluates a speaker's pace, pauses, pitch, loudness, and clarity. It compares speech against reference recordings or learned speech patterns, pinpoints problem regions, explains why they matter, and delivers an overall performance score with actionable feedback.
+**Tech:** Python, torchaudio, JavaScript, CSS, Docker
 
-<h3 align="center">🧠 Currently Exploring</h3>
+### [QUANTA](https://github.com/Melwin-2007/QUANTA)
+A hybrid quantum-classical examination timetabling platform. It combines Google OR-Tools CP-SAT global constraint programming with Qiskit QAOA subproblem refinement, backed by a deterministic classical repair fallback gate.
+**Tech:** Python, TypeScript, Qiskit, OR-Tools
 
-<p align="center">
-  🤖 Agentic AI • 🧠 Machine Learning • ⚛️ React • 🌐 APIs • ☁️ Full Stack Apps
-</p>
-
----
-
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=melwin-2007&show_icons=true&theme=tokyonight" height="170"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=melwin-2007&layout=compact&theme=tokyonight" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=melwin-2007&theme=tokyonight" />
-</p>
+### [Smart Health Monitoring (IoT)](https://github.com/Melwin-2007/Health-Monitoring)
+An ESP32-based air quality monitoring and alert system using CO, gas, temperature/humidity, and dust particle sensors.
+**Tech:** ESP32, Arduino IDE, C++, JavaScript, HTML, Python
 
 ---
 
-<h3 align="center">🏆 Goals for 2026</h3>
+## 🏆 Achievements
 
-<p align="center">
-✅ Build impactful AI projects <br>
-✅ Contribute to Open Source <br>
-✅ Master Full Stack Development <br>
-✅ Land top internships in AI/Software Engineering
-</p>
+- 🥇 **Winner**, SIH Internals Round, VTU Regional Round (**Dhyanta 2K26**), Mysuru
+- 🏅 **Top 16**, 3LC Hackathon
+- 💡 Participated in numerous hackathons across web, AI/ML, and IoT domains
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=melwin-2007&label=Profile%20Views&color=0e75b6&style=flat" alt="melwin-2007" />
-</p>
+## 📊 GitHub Stats
+
+![Melwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Melwin-2007&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Melwin-2007&layout=compact&theme=default&hide_border=true)
 
 ---
 
-<h3 align="center">
-⭐️ “Consistency beats talent when talent doesn’t work hard.”
-</h3>
+## 📫 Let's Connect
 
-<h4 align="center">
-Made with ❤️ by Melwin Fernandes
-</h4>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melwin-fernandes2007/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Melwinfernandes2007@gmail.com)
+
+I'm always open to collaborating on interesting projects and hackathon teams. Feel free to reach out!
